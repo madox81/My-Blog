@@ -1,0 +1,3 @@
+bottle==0.12.19
+deta==1.1.0
+Markdown==3.3.7

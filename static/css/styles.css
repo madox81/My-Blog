@@ -1,0 +1,21 @@
+html, .nav__color {
+  background: #fcf7bd;
+  
+}
+
+body{
+  height: 100vh;
+}
+
+main{
+  min-height: 80%;
+  
+}
+
+.justify {
+  text-align: justify;
+}
+
+.back__link {
+  cursor: pointer;
+}
